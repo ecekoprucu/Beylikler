@@ -1,0 +1,8 @@
+#map{
+  display:inline-block;
+}
+#choose{
+  display: inline-block;
+  float: right;
+  margin: 10px;
+}
